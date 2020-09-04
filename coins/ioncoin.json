@@ -1,0 +1,8 @@
+{
+    "name": "Ion",
+    "symbol": "ION",
+    "algorithm": "x11",
+    "reward": "HYBRID",
+    "peerMagic": "c4e1d8ec",
+    "peerMagicTestnet": "db86fc69"
+}
